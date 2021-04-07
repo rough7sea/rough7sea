@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rough7sea
 - I'm young developer from Saint-Petersburg
-- Most interested in Web and Mobile development, most prefer Java and Kotlin
+- Most interested in Web and Mobile development, prefer Java and Kotlin
 - If you have any questions just email me on karnacevich5323537@gmail.com 👀
 
 <!---
