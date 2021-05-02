@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @rough7sea
-- I'm young developer from Saint-Petersburg
+- I'm young backend developer from Saint-Petersburg
 - Most interested in Web and Mobile development, prefer Java and Kotlin
+- My [resume](https://resume.io/r/AB8tK1b5P) 😉
 - If you have any questions just email me on karnacevich5323537@gmail.com 👀
 
 <!---
