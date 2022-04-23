@@ -1,7 +1,6 @@
 - Hi, I’m Danila Karnatsevich 👋
-- I'm software developer from Saint-Petersburg
+- I'm software developer
 - Most interested in Web development, prefer Java and Kotlin
-- My [resume](https://resume.io/r/AB8tK1b5P) 😉
 - If you have any suggestions just email me on karnacevich5323537@gmail.com 👀
 
 <!---
