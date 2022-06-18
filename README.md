@@ -1,6 +1,5 @@
 - Hi, I’m Danila Karnatsevich 👋
-- I'm software developer
-- Most interested in Web development, prefer Java and Kotlin
+- I'm software developer, prefer Java and Kotlin
 - If you have any suggestions just email me on karnacevich5323537@gmail.com 👀
 
 <!---
