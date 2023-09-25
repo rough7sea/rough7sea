@@ -1,5 +1,5 @@
-- Hi, I’m Danila Karnatsevich 👋
-- I'm software Java developer
+- Hi, I’m Danila 👋
+- I'm software developer
 - If you have any suggestions just email me on karnacevich5323537@gmail.com 👀
 
 <!---
